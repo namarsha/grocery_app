@@ -1,2 +1,2 @@
 def adder(num: int):
-    return int + 1
+    return num + 1
